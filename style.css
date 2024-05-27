@@ -34,6 +34,7 @@ body * {
 
 #container {
   width: 360px;
+  max-width: 588px;
   margin: auto;
   padding: 0 24px;
 }
@@ -152,3 +153,15 @@ footer {
   text-align: center;
   font-size: 16px;
 }
+
+/* media queries 
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
+}
+*/
