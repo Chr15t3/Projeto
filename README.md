@@ -18,7 +18,8 @@ Programa exclusivo e gratuito desenvolvido pela Rocketseat (Com algumas modifica
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto DevLinks" src="![Preview](https://github.com/Chr15t3/Projeto/assets/61637507/2f781d1a-00a0-40e9-ad7d-66edc53d5ea5)
+" width="100%">
 </p>
 
 ## 🚀 Tecnologias
