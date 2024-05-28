@@ -18,7 +18,7 @@ Programa exclusivo e gratuito desenvolvido pela Rocketseat (Com algumas modifica
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/capareadme.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/capinha.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
